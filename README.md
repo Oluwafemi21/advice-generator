@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Advice Generator](https://github.com/Oluwafemi21/advice-generator)
+- Live Site URL: [Advice Generator](https://oluwafemi21.github.io/advice-generator/)
 
 ## My process
 
